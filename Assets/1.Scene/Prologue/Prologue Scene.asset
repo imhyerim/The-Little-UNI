@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1df6bbb4a2deae541a2a987906480cdd, type: 3}
+  m_Name: Prologue Scene
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSO
+  lines:
+  - characterName: "\uC720\uB2C8"
+    dialogueText: "\uB098\uB294 \uC544\uC8FC \uC791\uC740 \uBCC4\uC5D0\uC11C \uB0B4
+      \uC7A5\uBBF8\uC640\uC0B4\uACE0\uC788\uB294 \uC791\uC740 \uC544\uC774\uC600\uC5B4."
+    portrait: {fileID: -304707289287175688, guid: 835047e5cc6338c4ab3d5213e4239030, type: 3}
+    sceneImage: {fileID: 21300000, guid: 5fd2599b433972d428c39846b5f6e3e6, type: 3}
+    typingClip: {fileID: 8300000, guid: 483a03671aeb323478c7c9148a4d6f21, type: 3}
+  nextSceneName: 1CH
